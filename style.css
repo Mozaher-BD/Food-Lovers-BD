@@ -1,0 +1,29 @@
+body{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+h1{
+    font-size: 50px;
+    text-align: justify;
+}
+p{
+    font-size: 25px;
+    text-align: justify;
+}
+.title-name{
+    color: darkorange;    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(crimson,orange);
+    padding: 10px 20px;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
